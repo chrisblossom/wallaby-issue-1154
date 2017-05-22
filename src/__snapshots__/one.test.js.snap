@@ -1,17 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`handles One page 1`] = `
-<Connect(One)>
-  <One
-    dispatch={[Function]}
-  >
-    <div>
-      <Two>
-        <div>
-          Two
-        </div>
-      </Two>
-    </div>
-  </One>
-</Connect(One)>
+<One>
+  <div>
+    <Two>
+      <div>
+        Two
+      </div>
+    </Two>
+  </div>
+</One>
 `;
